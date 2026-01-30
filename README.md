@@ -52,7 +52,7 @@ subscription-tracker/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/subscription-tracker.git
+    git clone https://github.com/scars-and-screws/subscription-tracker.git
     cd subscription-tracker
     ```
 
